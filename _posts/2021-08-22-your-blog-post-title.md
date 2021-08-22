@@ -1,5 +1,5 @@
 ---
-title:  "Blogging Like a Hacker my first Jekyll post"
+title: "Your blog post title"
 date: 2021-08-22
 ---
 
